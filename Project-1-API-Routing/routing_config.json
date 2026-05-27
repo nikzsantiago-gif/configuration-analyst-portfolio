@@ -1,0 +1,10 @@
+{
+  "project_name": "Nikz Mock Messaging System",
+  "environment": "Production",
+  "routing_rules": {
+    "sms_max_retries": 3,
+    "primary_channel": "WhatsApp",
+    "fallback_channel": "SMS",
+    "api_endpoint": "https://api.nikz-mock.com/v1"
+  }
+}
