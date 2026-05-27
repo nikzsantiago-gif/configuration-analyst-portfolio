@@ -1,0 +1,14 @@
+[
+  {
+    "user_id": 101,
+    "name": "Alice Smith",
+    "phone_country_code": 44,
+    "account_status": "Active"
+  },
+  {
+    "user_id": 102,
+    "name": "Bob Jones",
+    "phone_country_code": "INVALID_CODE_TEXT",
+    "account_status": "Active"
+  }
+]
