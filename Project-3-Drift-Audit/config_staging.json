@@ -1,0 +1,5 @@
+{
+  "api_version": "v2.4",
+  "enable_whatsapp_rich_media": true,
+  "encryption_enabled": true
+}
